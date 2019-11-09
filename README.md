@@ -11,12 +11,13 @@ tengo 18 años
 
 Estudio en La univerdad de Guayaquil 
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+https://www.rankiapro.com/wp-content/uploads/2019/08/fondo-tecnologico-preferido-selectores-rankiapro.png
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Nombre completo 
+
+Stalyn David Asitimbay Shigla
 
 
 ### Para contactos:
