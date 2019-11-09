@@ -34,4 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Para contactos:
 
 Mi correo es: Stalynasi08@gmail.com 
+
 Encuentrame en facebook [Stalyn Asitimbay](https://www.facebook.com/stalyn.asitimbay.5) o twitter [@StalynAsitim](https://twitter.com/StalynAsitim)
