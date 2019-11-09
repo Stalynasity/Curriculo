@@ -3,9 +3,15 @@ hecho en [editor on GitHub](https://github.com/Stalynasity/WedAsity/edit/master/
 
 
 
-### Markdown
+### Stalyn Asitimbay
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Naci el 8 de Diciembre del 2000, vivo en Guayaquil.
+
+tengo 18 años
+
+Estudio en La univerdad de Guayaquil 
+
+
 
 ```markdown
 Syntax highlighted code block
