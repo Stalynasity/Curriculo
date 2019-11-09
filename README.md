@@ -11,7 +11,7 @@ tengo 18 años
 
 Estudio en La univerdad de Guayaquil 
 
-https://www.rankiapro.com/wp-content/uploads/2019/08/fondo-tecnologico-preferido-selectores-rankiapro.png
+"https://www.rankiapro.com/wp-content/uploads/2019/08/fondo-tecnologico-preferido-selectores-rankiapro.png"
 
 
 
